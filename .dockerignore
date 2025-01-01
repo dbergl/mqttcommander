@@ -1,0 +1,7 @@
+.git
+.github
+.gitignore
+.vscode
+Readme.md
+.goreleaser.yml
+LICENSE
